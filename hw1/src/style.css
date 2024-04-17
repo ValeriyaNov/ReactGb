@@ -1,0 +1,12 @@
+.text {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 2px solid red;
+    color: aqua;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 125%;
+    letter-spacing: 0%;
+    text-align: center;
+}
