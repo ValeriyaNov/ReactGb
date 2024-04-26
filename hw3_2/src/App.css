@@ -1,7 +1,19 @@
 .App {
   text-align: center;
 }
+.cont{
+  margin-right: 50px;
+  display: flex;
+  justify-content: start;
+  margin-bottom: 25px;
+  
+}
 
+.btnn{margin-right: 500px;}
+.text{font-size: calc(10px + 2vmin);
+  color: blue;}
+  
+  
 .App-logo {
   height: 40vmin;
   pointer-events: none;
